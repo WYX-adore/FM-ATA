@@ -1,2 +1,6 @@
 resnet_iter_6000.pth filter=lfs diff=lfs merge=lfs -text
 vnet_iter_6000.pth filter=lfs diff=lfs merge=lfs -text
+FM-ATA filter=lfs diff=lfs merge=lfs -text
+LA-20%_resnet_iter_6000.pth filter=lfs diff=lfs merge=lfs -text
+LA-20%_vnet_iter_6000.pth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
